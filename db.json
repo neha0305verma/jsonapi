@@ -1,0 +1,100 @@
+{
+"courseId":
+{
+    "id": "api.course.batch.search",
+    "ver": "v1",
+    "ts": "2019-05-21 10:34:43:847+0000",
+    "params": {
+        "resmsgid": null,
+        "msgid": "d555cf4d-1c05-47e8-aaf3-8a957675d525",
+        "err": null,
+        "status": "success",
+        "errmsg": null
+    },
+    "responseCode": "OK",
+    "result": {
+        "response": {
+            "count": 2,
+            "content": [
+                {
+                    "identifier": "01271791796492697625",
+                    "createdFor": [
+                        "0127053482034872320"
+                    ],
+                    "courseAdditionalInfo": {
+                        "courseName": "10 tips to master the Google Play Developer Console",
+                        "leafNodesCount": "10",
+                        "description": "Success on Google Play is a guidebook published by Google for developers.It covers the key aspects of publishing apps and games on Google Play, and provides information regarding the Google Play Developer Console",
+                        "courseLogoUrl": "https://ekstep-public-qa.s3-ap-south-1.amazonaws.com/content/do_2127172087985684481621/artifact/tips-for-success-on-google-play_1552389678323.thumb.png",
+                        "tocUrl": "https://ekstep-public-qa.s3-ap-south-1.amazonaws.com/content/do_2127172087985684481621/artifact/do_2127172087985684481621toc.json",
+                        "status": "Live"
+                    },
+                    "endDate": "2019-03-22",
+                    "countIncrementDate": "2019-03-13 12:16:08:431+0000",
+                    "description": "If you have a website, Google’s free webmaster tools are invaluable resources that you should be taking advantage of",
+                    "countDecrementDate": "2019-03-23 00:00:00:025+0000",
+                    "updatedDate": "2019-03-23 00:00:00:025+0000",
+                    "participant": {
+                        "99db4a42-e4d1-489e-983a-24fa908bcd39": true
+                    },
+                    "countIncrementStatus": true,
+                    "createdDate": "2019-03-13 12:16:08:307+0000",
+                    "createdBy": "e7281c98-1eb0-4774-8dd9-a6100f05870a",
+                    "courseCreator": "e7281c98-1eb0-4774-8dd9-a6100f05870a",
+                    "hashTagId": "01271791796492697625",
+                    "mentors": [
+                        "70b5ca19-14c9-412c-a9e4-2dd14314c348",
+                        "6f324db7-32a5-4437-a451-35cf53269aaf",
+                        "70b5ca19-14c9-412c-a9e4-2dd14314c348",
+                        "70b5ca19-14c9-412c-a9e4-2dd14314c348",
+                        "e7281c98-1eb0-4774-8dd9-a6100f05870a"
+                    ],
+                    "countDecrementStatus": true,
+                    "name": "10 Tips to process the google console",
+                    "id": "01271791796492697625",
+                    "enrollmentType": "invite-only",
+                    "courseId": "do_2127172087985684481621",
+                    "startDate": "2019-03-13",
+                    "status": 2
+                },
+                {
+                    "identifier": "01271791513118310426",
+                    "createdFor": [
+                        "0127053482034872320"
+                    ],
+                    "courseAdditionalInfo": {
+                        "courseName": "10 tips to master the Google Play Developer Console",
+                        "leafNodesCount": "10",
+                        "description": "Success on Google Play is a guidebook published by Google for developers.It covers the key aspects of publishing apps and games on Google Play, and provides information regarding the Google Play Developer Console",
+                        "courseLogoUrl": "https://ekstep-public-qa.s3-ap-south-1.amazonaws.com/content/do_2127172087985684481621/artifact/tips-for-success-on-google-play_1552389678323.thumb.png",
+                        "tocUrl": "https://ekstep-public-qa.s3-ap-south-1.amazonaws.com/content/do_2127172087985684481621/artifact/do_2127172087985684481621toc.json",
+                        "status": "Live"
+                    },
+                    "endDate": "2019-03-22",
+                    "countIncrementDate": "2019-03-13 12:16:40:340+0000",
+                    "description": "If you have a website, Google’s free webmaster tools are invaluable resources that you should be taking advantage of",
+                    "countDecrementDate": "2019-03-23 00:00:00:025+0000",
+                    "updatedDate": "2019-03-23 00:00:00:025+0000",
+                    "participant": {
+                        "2ea37912-ce7d-44c0-8816-34be186ad05c": true,
+                        "6f324db7-32a5-4437-a451-35cf53269aaf": true
+                    },
+                    "countIncrementStatus": true,
+                    "createdDate": "2019-03-13 12:16:40:235+0000",
+                    "createdBy": "e7281c98-1eb0-4774-8dd9-a6100f05870a",
+                    "courseCreator": "e7281c98-1eb0-4774-8dd9-a6100f05870a",
+                    "hashTagId": "01271791513118310426",
+                    "mentors": [],
+                    "countDecrementStatus": true,
+                    "name": "10 Tips to process the google console",
+                    "id": "01271791513118310426",
+                    "enrollmentType": "open",
+                    "courseId": "do_2127172087985684481621",
+                    "startDate": "2019-03-13",
+                    "status": 2
+                }
+            ]
+        }
+    }
+}
+}
